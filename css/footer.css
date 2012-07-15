@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color:#fbf9f9; 
+	transparent:80%;}
+/* Footer
+-------------------------------------------------- */
+.footer {
+  margin-top: 8px;
+  padding: 0 60px 36px;
+}
+.footer p {
+  margin-bottom: 0;
+  color: #555;
+}
